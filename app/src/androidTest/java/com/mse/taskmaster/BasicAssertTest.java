@@ -1,4 +1,4 @@
-package com.abdul.taskmaster;
+package com.mse.taskmaster;
 
 
 import static androidx.test.espresso.Espresso.onView;
